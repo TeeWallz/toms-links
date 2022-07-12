@@ -9,11 +9,11 @@ copyright: "&copy; 2021 peaceiris"
 
 # Repository
 repo_name: "GitHub"
-repo_url: "https://github.com/peaceiris/mkdocs-material-boilerplate"
-edit_uri: "https://github.com/peaceiris/mkdocs-material-boilerplate/edit/main/docs_sample"
+# repo_url: "https://github.com/peaceiris/mkdocs-material-boilerplate"
+# edit_uri: "https://github.com/peaceiris/mkdocs-material-boilerplate/edit/main/docs"
 
 # Configuration
-docs_dir: "docs_sample"
+docs_dir: "docs"
 theme:
   name: "material"
   language: "en"
@@ -23,8 +23,8 @@ theme:
     previous: 80 # p
     search: 83 # s
   palette:
-    primary: "blue"
-    accent: "blue"
+    primary: "purple"
+    accent: "red"
   features:
     - tabs
   #font:
@@ -66,22 +66,16 @@ extra:
 
 # Page tree
 nav:
-  - "Home": "index.md"
-  - "Material for MkDocs": "material-for-mkdocs.md"
-  - "Getting started":
-      - "Download boilerplate": "getting-started/download-boilerplate.md"
-      - "pipenv": "getting-started/pipenv.md"
-      - "invoke": "getting-started/invoke.md"
-      - "Docker": "getting-started/docker.md"
-      - "pip": "getting-started/pip.md"
-  - "Hosting and Deployment":
-      - "Combinations": "hosting-and-deployment/combinations.md"
-      - "Netlify": "hosting-and-deployment/netlify.md"
-      - "GitHub Pages": "hosting-and-deployment/github-pages.md"
-      - "GitLab Pages": "hosting-and-deployment/gitlab-pages.md"
-      - "AWS Amplify Console": "hosting-and-deployment/aws-amplify-console.md"
-  - "Extensions":
-      - "MathJax": "extensions/mathjax.md"
-      - "Code Hilite": "extensions/code-hilite.md"
-      - "Footnote": "extensions/footnote.md"
-  - "License": "license.md"
+    - Home: 'index.md'
+    - 'Basics':
+        - 'Phrases': 'basics/phrases.md'
+        - 'Swadesh List': 'basics/swadesh_list.md'
+    - 'Cases':
+        - 'Summary': 'cases/summary.md'
+        - 'Case Question Examples': 'cases/question_examples.md'
+        - 'Verbs By Cases': 'cases/verb_cases.md'
+    - 'Verbs':
+        - 'Summary': 'verbs/verb_summary.md'
+    - About:
+        - 'License': 'license.md'
+        - 'Release Notes': 'release-notes.md'
