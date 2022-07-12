@@ -6,77 +6,37 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/license/</loc>
+         <loc>https://mkdocs.peaceiris.com/about/</loc>
          <lastmod>2022-07-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/material-for-mkdocs/</loc>
+         <loc>https://mkdocs.peaceiris.com/basics/phrases/</loc>
          <lastmod>2022-07-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/extensions/code-hilite/</loc>
+         <loc>https://mkdocs.peaceiris.com/basics/swadesh_list/</loc>
          <lastmod>2022-07-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/extensions/footnote/</loc>
+         <loc>https://mkdocs.peaceiris.com/cases/question_examples/</loc>
          <lastmod>2022-07-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/extensions/mathjax/</loc>
+         <loc>https://mkdocs.peaceiris.com/cases/summary/</loc>
          <lastmod>2022-07-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/getting-started/docker/</loc>
+         <loc>https://mkdocs.peaceiris.com/cases/verb_cases/</loc>
          <lastmod>2022-07-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.peaceiris.com/getting-started/download-boilerplate/</loc>
-         <lastmod>2022-07-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mkdocs.peaceiris.com/getting-started/invoke/</loc>
-         <lastmod>2022-07-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mkdocs.peaceiris.com/getting-started/pip/</loc>
-         <lastmod>2022-07-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mkdocs.peaceiris.com/getting-started/pipenv/</loc>
-         <lastmod>2022-07-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/aws-amplify-console/</loc>
-         <lastmod>2022-07-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/combinations/</loc>
-         <lastmod>2022-07-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/github-pages/</loc>
-         <lastmod>2022-07-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/gitlab-pages/</loc>
-         <lastmod>2022-07-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mkdocs.peaceiris.com/hosting-and-deployment/netlify/</loc>
+         <loc>https://mkdocs.peaceiris.com/verbs/verb_summary/</loc>
          <lastmod>2022-07-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
