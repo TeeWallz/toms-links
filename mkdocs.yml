@@ -23,7 +23,8 @@ theme:
     previous: 80 # p
     search: 83 # s
   palette:
-    primary: "purple"
+    scheme: slate
+    primary: "pink"
     accent: "red"
   features:
     - tabs
