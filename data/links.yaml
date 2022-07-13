@@ -1,0 +1,46 @@
+links:
+  index:
+    social:
+      - name: gmail
+        url: https://mail.google.com/mail/u/0/#inbox
+      - name: reddit
+        url: https://www.reddit.com/
+      - name: /a/
+        url: https://boards.4channel.org/a/
+      - name: /g/
+        url: https://boards.4channel.org/g/
+      - name: /v/
+        url: https://boards.4channel.org/v/
+      - name: Telegram
+        url: https://web.telegram.org/z/
+    media:
+      - name: Radio Garden
+        url: http://radio.garden/listen/tok/ZMah3fCw
+      - name: MAL
+        url: https://myanimelist.net/profile/superraiden#
+      - name: Spotify
+        url: https://open.spotify.com/
+      - name: 1337.to
+        url: https://1337x.to/
+      - name: ev01 - Stream anything
+        url: https://ev01.to/
+    dev:
+      - name: Github
+        url: https://github.com/
+      - name: Lightsail
+        url: https://lightsail.aws.amazon.com/ls/webapp/home
+      - name: Cloudflare
+        url: https://dash.cloudflare.com/7d6da5479dd9be13e7fe945a71d07383
+      - name: 1337.to
+        url: https://1337x.to/
+    Polska:
+      - name: Pons Translator
+        url: https://en.pons.com/text-translation
+      - name: Wikitionary
+        url: https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+      - name: Source Of Polish - Grammar Haven
+        url: https://courseofpolish.com/grammar
+      - name: Po Polsku Po Polsce
+        url: https://www.popolskupopolsce.edu.pl/pogotowie-jezykowe
+      - name: Lekcja z Marcinem
+        url: https://onedrive.live.com/edit.aspx?cid=0b6a3ef0a7d1ad7b&page=view&resid=B6A3EF0A7D1AD7B!1597&parId=B6A3EF0A7D1AD7B!895&app=Excel&wacqt=search

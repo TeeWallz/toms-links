@@ -1,8 +1,8 @@
 # Project information
-site_name: "MkDocs Material Boilerplate"
-site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
-site_author: "peaceiris"
-site_url: "https://mkdocs.peaceiris.com/"
+site_name: "꧁꧂Tom's Links꧁꧂"
+site_description: "Tom's Links"
+site_author: "Tom"
+site_url: "https://links.tomekwaller.com/"
 
 # Copyright
 copyright: "&copy; 2021 peaceiris"
@@ -50,6 +50,9 @@ plugins:
       separator: '[\s\-\.]+'
       lang:
         - en
+  - macros:
+      include_yaml:
+        - data/links.yaml
 
 # Customization
 extra_javascript:
@@ -67,6 +70,7 @@ extra:
 # Page tree
 nav:
     - Home: 'index.md'
+    - Social: 'social.md'
     - Dev: 'dev.md'
     - Polish: 'polish.md'
     - Utilities: 'utilities.md'
