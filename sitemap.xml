@@ -2,37 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://links.tomekwaller.com/</loc>
-         <lastmod>2022-07-13</lastmod>
+         <lastmod>2022-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://links.tomekwaller.com/about/</loc>
-         <lastmod>2022-07-13</lastmod>
+         <lastmod>2022-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://links.tomekwaller.com/dev/</loc>
-         <lastmod>2022-07-13</lastmod>
+         <loc>https://links.tomekwaller.com/likes/</loc>
+         <lastmod>2022-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://links.tomekwaller.com/polish/</loc>
-         <lastmod>2022-07-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://links.tomekwaller.com/social/</loc>
-         <lastmod>2022-07-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://links.tomekwaller.com/spirituality/</loc>
-         <lastmod>2022-07-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://links.tomekwaller.com/utilities/</loc>
-         <lastmod>2022-07-13</lastmod>
+         <loc>https://links.tomekwaller.com/towatch/</loc>
+         <lastmod>2022-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
